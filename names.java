@@ -7,6 +7,11 @@ public class names
     printNameEthan();
     printDavid();
     PeterPrint();
+  	printM();
+  }
+
+  public static void printM() {
+    System.out.println("mitch");
   }
   public static void printNameEthan()
   {
