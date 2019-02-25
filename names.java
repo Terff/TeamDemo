@@ -5,9 +5,21 @@ public class names
   {
     System.out.println("Our names are...");
     printEthan();
-    System.out.println("My name is Peter");
+   pm();
+  printDavid();
+    PeterPrint();
+  }
+
+  public static void printDavid() {
+	  System.out.println("David");
+  }
+	public static void pm(){
+
     System.out.println("mitch");
-    System.out.println("David");
+}
+
+  private static void PeterPrint(){
+        System.out.println("Peter");
   }
   public void printEthan()
   {
