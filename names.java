@@ -24,6 +24,6 @@ public class names
   }
   public void printEthan()
   {
-    System.out.println("Ethan Weaver")
+    System.out.println("Ethan P Weaver")
   }
 }
