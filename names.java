@@ -11,19 +11,18 @@ public class names
   }
 
   public static void printDavid() {
-	  System.out.println("David");
+	  System.out.println("David Corbin");
   }
 
   public static void pm(){
-
     System.out.println("mitch X");
 }
 
   private static void PeterPrint(){
-        System.out.println("Peter");
+        System.out.println("Peter Lowrance");
   }
   public void printEthan()
   {
-    System.out.println("Ethan Weaver")
+    System.out.println("Ethan P Weaver")
   }
 }
