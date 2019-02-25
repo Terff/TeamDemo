@@ -16,14 +16,14 @@ public class names
 
   public static void pm(){
 
-    System.out.println("mitch Z");
+    System.out.println("mitch");
 }
 
   private static void PeterPrint(){
-        System.out.println("Peter");
+        System.out.println("Peter Lowrance");
   }
   public void printEthan()
   {
-    System.out.println("Ethan Weaver")
+    System.out.println("Ethan P Weaver")
   }
 }
