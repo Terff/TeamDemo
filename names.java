@@ -11,7 +11,7 @@ public class names
   }
 
   public static void printDavid() {
-	  System.out.println("David");
+	  System.out.println("David Corbin");
   }
 
   public static void pm(){
