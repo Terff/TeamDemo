@@ -4,16 +4,17 @@ public class names
   public static void main(String[] args)
   {
     System.out.println("Our names are...");
-    printEthan();
-   pm();
-  printDavid();
+    pm();
+    printDavid();
     PeterPrint();
+    printEthan();
   }
 
   public static void printDavid() {
 	  System.out.println("David");
   }
-	public static void pm(){
+
+  public static void pm(){
 
     System.out.println("mitch");
 }
