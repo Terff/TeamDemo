@@ -4,9 +4,13 @@ public class names
   public static void main(String[] args)
   {
     System.out.println("Our names are...");
-    System.out.println("My name is Peter");
+    PeterPrint();
     System.out.println("mitch");
     System.out.println("Ethan Weaver")
     System.out.println("David");
+  }
+  
+  private static void PeterPrint(){
+        System.out.println("Peter");
   }
 }
