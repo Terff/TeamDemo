@@ -7,7 +7,10 @@ public class names
     PeterPrint();
     System.out.println("mitch");
     System.out.println("Ethan Weaver")
-    System.out.println("David");
+  }
+
+  public static void printDavid() {
+	  System.out.println("David");
   }
   
   private static void PeterPrint(){
