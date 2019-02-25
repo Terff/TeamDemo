@@ -19,6 +19,6 @@ public class names
 }
   
   private static void PeterPrint(){
-        System.out.println("Peter");
+        System.out.println("Peter Lowrance");
   }
 }
