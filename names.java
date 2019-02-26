@@ -6,8 +6,11 @@ public class names
     System.out.println("Our names are...");
 
     printEthan();
+    printDavid();
+    PrintPeter();
+    pm();
   }
-  public void printEthan()
+  public static void printEthan()
   {
     System.out.println("Ethan M. Weaver");
   }
@@ -16,5 +19,8 @@ public class names
   }
   public static void PrintPeter(){
     System.out.println("Peter D Lowrance");
+  }
+  public static void printDavid() {
+	System.out.println("David J. Corbin");
   }
 }
