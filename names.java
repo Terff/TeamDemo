@@ -5,15 +5,21 @@ public class names
   {
     System.out.println("Our names are...");
     printDavid();
-    System.out.println("mitch");
-    System.out.println("Peter Lowrance");
+    pm();
+    PrintPeter();
     System.out.println("Ethan Weaver");
   }
 
   public static void printDavid() {
 	System.out.println("David J. Corbin");
   }
+
+  public static void PrintPeter(){
+    System.out.println("Peter D Lowrance");      
+  }
+
 public static void pm() {
-System.out.println("Mitchell P Harvey")
+System.out.println("Mitchell P Harvey");
 }
+
 }
