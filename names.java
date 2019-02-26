@@ -13,15 +13,15 @@ public class names
   }
   public static void printEthan()
   {
-    System.out.println("Ethan M. Weaver");
+    System.out.println("Ethan Q. Weaver");
   }
   public static void pm() {
     System.out.println("Mitchell Q Harvey");
   }
   public static void PrintPeter(){
-    System.out.println("Peter D Lowrance");
+    System.out.println("Peter Z Lowrance");
   }
   public static void printDavid() {
-	System.out.println("David J. Corbin");
+	System.out.println("David KK. Corbin");
   }
 }
