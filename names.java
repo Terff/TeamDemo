@@ -12,7 +12,7 @@ public class names
   }
   public static void printEthan()
   {
-    System.out.println("Ethan M. Weaver");
+    System.out.println("Ethan Q. Weaver");
   }
   public static void pm() {
     System.out.println("Mitchell P Harvey");
