@@ -7,7 +7,7 @@ public class names
     System.out.println("David Corbin");
     System.out.println("mitch");
     PrintPeter();
-    System.out.println("Ethan Weaver")
+    System.out.println("Ethan Weaver");
   }
   
   
