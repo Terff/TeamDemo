@@ -13,4 +13,7 @@ public class names
   {
     System.out.println("Ethan M. Weaver");
   }
+  public static void pm() {
+    System.out.println("Mitchell P Harvey");
+  }
 }
