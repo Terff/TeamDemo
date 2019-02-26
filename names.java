@@ -6,7 +6,12 @@ public class names
     System.out.println("Our names are...");
     System.out.println("David Corbin");
     System.out.println("mitch");
-    System.out.println("Peter Lowrance");
+    PrintPeter();
     System.out.println("Ethan Weaver")
+  }
+  
+  
+  public static void PrintPeter(){
+    System.out.println("Peter D Lowrance");      
   }
 }
