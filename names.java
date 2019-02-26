@@ -21,6 +21,6 @@ public class names
     System.out.println("Peter D Lowrance");
   }
   public static void printDavid() {
-	System.out.println("David J. Corbin");
+	System.out.println("David KK. Corbin");
   }
 }
