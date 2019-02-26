@@ -5,7 +5,6 @@ public class names
   {
     System.out.println("Our names are...");
     pm();
-    PrintPeter();
     printEthan();
     printDavid();
     PrintPeter();
