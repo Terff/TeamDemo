@@ -9,4 +9,7 @@ public class names
     System.out.println("Peter Lowrance");
     System.out.println("Ethan Weaver");
   }
+public static void pm() {
+System.out.println("Mitchell P Harvey")
+}
 }
