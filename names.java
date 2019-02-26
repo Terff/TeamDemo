@@ -4,7 +4,8 @@ public class names
   public static void main(String[] args)
   {
     System.out.println("Our names are...");
-
+    pm();
+    PrintPeter();
     printEthan();
   }
   public void printEthan()
