@@ -9,7 +9,6 @@ public class names
     printEthan();
     printDavid();
     PrintPeter();
-    pm();
   }
   public static void printEthan()
   {
